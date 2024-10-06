@@ -1,1 +1,3 @@
 Here is the task (code) of the particular QA engineer
+
+This is changes for dev_1 branch
